@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "chung-jiwoong.github.io",
+    "title": "Ji-Woong Chung",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Professor of Finance at Korea University Business School. My research examines the operations, governance, and regulation of the asset management industry, including mutual funds, private equity funds, and hedge funds."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Investments 투자론\nDerivatives 파생상품\nAlternative Investments: Economics of Private Equity 사모펀드\nFinancial Management 재무관리\nCorporate Finance 기업재무\nInternational Financial Management 국제재무관리\nFMB819: R을 이용한 데이터 분석"
   }
 ]

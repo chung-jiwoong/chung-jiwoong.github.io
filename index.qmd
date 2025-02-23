@@ -1,11 +1,19 @@
 ---
-title: "chung-jiwoong.github.io"
+title: "Ji-Woong Chung"
+image: chung.jpg
+about:
+  template: solana #jolla trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/chung-jiwoong
+    - text: "{{< iconify academicons google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=zqHrZZoAAAAJ&hl=en
+    - icon: envelope
+      text: Email
+      aria-label: email
+      href: "mailto:chung_jiwoong@korea.ac.kr"
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a Professor of Finance at Korea University Business School. My research examines the operations, governance, and regulation of the asset management industry, including mutual funds, private equity funds, and hedge funds.
