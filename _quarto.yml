@@ -10,7 +10,10 @@ website:
         text: Home
       - href: cv.qmd
         text: Vita
-      - teaching.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
 
 format:
   html:

@@ -1,12 +1,12 @@
 ---
 title: "Teaching"
-editor: visual
+toc: true
 ---
 
-- Investments 투자론
-- Derivatives 파생상품
-- Alternative Investments: Economics of Private Equity 사모펀드
-- Financial Management 재무관리
-- Corporate Finance 기업재무
-- International Financial Management 국제재무관리
-- FMB819: R을 이용한 데이터 분석
+### Graduate
+- *FMB850: Economics of Private Equity 사모펀드 (formally: 대체투자)*
+- *FMB819: Data Analysis using R (formally: 금융을 위한 수리적 기초 I)* [GitHub](https://github.com/chung-jiwoong/FMB819)
+
+### Undergraduate
+- *BUSS254: Investments 투자론*
+- *BUSS386: Derivatives 선물옵션*
