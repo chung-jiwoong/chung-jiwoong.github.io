@@ -1,5 +1,5 @@
 ---
-title: "Ji-Woong Chung"
+title: "Ji-Woong Chung <\br> 정지웅"
 image: chung.jpg
 about:
   template: solana #jolla trestles
