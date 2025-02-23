@@ -6,14 +6,13 @@ website:
   title: "chung-jiwoong.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: cv.qmd
-        text: Vita
-      - href: teaching.qmd
-        text: Teaching
-      - href: research.qmd
-        text: Research
+      - text: Home
+        href: index.qmd
+      - text: Vita
+        href: cv.qmd
+      - teaching.qmd
+      - research.qmd
+        
 
 format:
   html:
