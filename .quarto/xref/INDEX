@@ -7,5 +7,13 @@
   },
   "teaching.qmd": {
     "teaching.html": "4838ec17"
+  },
+  "cv.qmd": {
+    "cv.tex": "aa786c25",
+    "cv.html": "4d2d135c",
+    "cv.pdf": "1e1414a1"
+  },
+  "cv_testing.qmd": {
+    "cv_testing.tex": "e1e73d2b"
   }
 }
