@@ -11,28 +11,28 @@ toc: true
 
 - "The Introduction of Governance Regulation on Financial Institutions and Its Effect on Firm Value" (in Korean) with Yangsoo Lee and Koren Jo, 2024, Financial Stability Studies.
  
-- "Do Prime Brokers Matter in the Search for Informed Hedge Fund Managers?" with George Aragon and Byoung-Uk Kang, 2023, Management Science, Vol. 69, no.8, pp. 4932-4952. Download
+- "Do Prime Brokers Matter in the Search for Informed Hedge Fund Managers?" with George Aragon and Byoung-Uk Kang, 2023, Management Science, Vol. 69, no.8, pp. 4932-4952. [Download](https://ssrn.com/abstract=3485354)
   - Semifinalist for the best paper award at the 2019 FMA Annual Meeting.
  
-- "Has the Value of Cash Increased over Time?" with Boochun Jung and Duri Park, Accounting and Finance, 2020, Vol. 60, no 3, pp. 2263–2299. Download
+- "Has the Value of Cash Increased over Time?" with Boochun Jung and Duri Park, Accounting and Finance, 2020, Vol. 60, no 3, pp. 2263–2299. [Download](https://ssrn.com/abstract=1903680)
  
-- "Capital Structure and Unemployment Risk: Evidence from Korea" (in Korean) with Jaeouk Kim, Asian Review of Financial Research, 2016, Vol. 29, no 4, pp. 437-472. Download
+- "Capital Structure and Unemployment Risk: Evidence from Korea" (in Korean) with Jaeouk Kim, Asian Review of Financial Research, 2016, Vol. 29, no 4, pp. 437-472. [Download](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10774700)
   -  Asian Review of Financial Research Best Paper Award Runner-Up, 2017
  
-- "Prime Broker-Level Comovement in Hedge Fund Returns: Information or Contagion?" with Byoung Uk Kang, Review of Financial Studies, 2016, Vol. 29, no. 12, pp. 3321-3353. Download
+- "Prime Broker-Level Comovement in Hedge Fund Returns: Information or Contagion?" with Byoung Uk Kang, Review of Financial Studies, 2016, Vol. 29, no. 12, pp. 3321-3353. [Download](https://ssrn.com/abstract=2396522)
   - Financial News & KAFA Top-Journal Award. 2016
  
-- "Pay for Performance from Future Fund Flows: The Case of Private Equity" with Berk Sensoy, Lea Stern, and Mike Weisbach, Review of Financial Studies, 2012, Vol. 25, no. 11, pp. 3259-3304. Download
+- "Pay for Performance from Future Fund Flows: The Case of Private Equity" with Berk Sensoy, Lea Stern, and Mike Weisbach, Review of Financial Studies, 2012, Vol. 25, no. 11, pp. 3259-3304. [Download](https://ssrn.com/abstract=1554626)
   - Wharton School WRDS Award for Best Empirical Finance Paper, Western Finance Association Meeting, 2011; Korea Investment & Securities Outstanding Paper at The 6th International Conference on Asia-Pacific Financial Markets, 2011; Featured in Finance and Accounting Memos, Issue 2, 2014
 
-- "Performance Persistence in Private Equity Funds," 2012, Working Paper. Download
+- "Performance Persistence in Private Equity Funds," 2012, Working Paper. [Download](https://ssrn.com/abstract=1686112)
   - Ph.D. Prize of the Coller Institute of Private Equity at London Business School, 2010; Featured in Private Equity Findings, Issue 4, Spring 2011
  
-- "Leveraged Buyouts of Private Companies," 2011, Working Paper. Download
+- "Leveraged Buyouts of Private Companies," 2011, Working Paper. [Download](https://ssrn.com/abstract=1904342)
 
 
 ## Book Chapters
 
 - Waterfall in Private Equity, The Palgrave Encyclopedia of Private Equity, Springer
 
-- Compensation Structure, Chapter 20 in Private Equity - Opportunities and Risks, Oxford University Press, Download 
+- Compensation Structure, Chapter 20 in Private Equity - Opportunities and Risks, Oxford University Press, [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466566)
