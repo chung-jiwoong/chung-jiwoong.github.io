@@ -4,9 +4,9 @@ toc: true
 ---
 
 ### Graduate
-- *FMB850: Economics of Private Equity 사모펀드 (formally: 대체투자)*
-- *FMB819: Data Analysis using R (formally: 금융을 위한 수리적 기초 I)* [GitHub](https://github.com/chung-jiwoong/FMB819)
+- FMB850: Economics of Private Equity 사모펀드 (formally: 대체투자)
+- FMB819: Data Analysis using R (formally: 금융을 위한 수리적 기초 I) [GitHub](https://github.com/chung-jiwoong/FMB819-Slides)
 
 ### Undergraduate
-- *BUSS254: Investments 투자론*
-- *BUSS386: Derivatives 선물옵션*
+- BUSS254: Investments 투자론 [Github](https://github.com/chung-jiwoong/BUSS254-Slides)
+- BUSS386: Futures and Options 선물옵션 [Github](https://github.com/chung-jiwoong/BUSS386-Slides)
