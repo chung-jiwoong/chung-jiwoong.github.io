@@ -3,15 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "chung-jiwoong.github.io"
+  title: "Ji-Woong Chung"
   navbar:
     left:
       - text: Home
         href: index.qmd
       - text: Vita
         href: cv.qmd
-      - teaching.qmd
-      - research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - test: Research
+        href: research.qmd
         
 
 format:
