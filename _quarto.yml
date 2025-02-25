@@ -12,7 +12,7 @@ website:
         href: cv.qmd
       - text: Teaching
         href: teaching.qmd
-      - test: Research
+      - text: Research
         href: research.qmd
         
 
