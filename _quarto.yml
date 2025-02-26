@@ -15,7 +15,7 @@ website:
       - text: Research
         href: research.qmd
 # Created this website following the instruction at https://colab.research.google.com/github/jfrench/DataWrangleViz/blob/master/github-website-creation.ipynb
-
+# and this as well: https://ucsb-meds.github.io/creating-quarto-websites/
 format:
     html:
       theme: cosmos
