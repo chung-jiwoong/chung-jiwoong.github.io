@@ -14,13 +14,9 @@ website:
         href: teaching.qmd
       - text: Research
         href: research.qmd
-        
+# Created this website following the instruction at https://colab.research.google.com/github/jfrench/DataWrangleViz/blob/master/github-website-creation.ipynb
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-# Created this website following the instruction at https://colab.research.google.com/github/jfrench/DataWrangleViz/blob/master/github-website-creation.ipynb
+    html:
+      css: styles.css
+      toc: true

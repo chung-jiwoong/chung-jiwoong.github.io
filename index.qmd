@@ -7,8 +7,11 @@ about:
   links:
     - icon: github
       text: Github
+      aria-label: github
       href: https://github.com/chung-jiwoong
-    - text: "{{< ai google-scholar >}} Scholar"
+    - icon: graduation-cap
+      text: Scholar
+      aria-label: scholar
       href: https://scholar.google.com/citations?user=zqHrZZoAAAAJ&hl=en
     - icon: envelope
       text: Email
