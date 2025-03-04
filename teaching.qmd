@@ -5,8 +5,8 @@ toc: true
 
 ### Graduate
 - FMB850: Economics of Private Equity
-- FMB819: Data Analysis using R [GitHub](https://github.com/chung-jiwoong/FMB819-Slides)
+- FMB819: [Data Analysis using R](https://github.com/chung-jiwoong/FMB819-Slides)
 
 ### Undergraduate
-- BUSS254: Investments [Github](https://github.com/chung-jiwoong/BUSS254-Slides)
-- BUSS386: Futures and Options [Github](https://github.com/chung-jiwoong/BUSS386-Slides)
+- BUSS254: [Investments](https://github.com/chung-jiwoong/BUSS254-Slides)
+- BUSS386: [Futures and Options](https://github.com/chung-jiwoong/BUSS386-Slides)
