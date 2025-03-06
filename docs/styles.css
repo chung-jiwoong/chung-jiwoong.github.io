@@ -1,1 +1,31 @@
-/* css styles */
+/* Change "Other Formats" heading to "Download PDF" */
+.quarto-alternate-formats h2 {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color: #0073e6 !important; /* Optional: Change color */
+    visibility: hidden;
+    position: relative;
+}
+
+/* Replace hidden text with "Download PDF" */
+.quarto-alternate-formats h2::before {
+    content: "Download PDF" !important;
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Make the "PDF" link bigger and bold */
+.quarto-alternate-formats a {
+    font-size: 18px !important;
+    font-weight: bold !important;
+    text-decoration: none !important; /* Optional: Remove underline */
+    color: #0073e6 !important; /* Optional: Change color */
+}
+
+/* Optional: Make the PDF icon bigger */
+.quarto-alternate-formats i.bi-file-pdf {
+    font-size: 22px !important;
+    margin-right: 5px; /* Adjust spacing between icon and text */
+}
