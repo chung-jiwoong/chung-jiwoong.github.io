@@ -1,6 +1,6 @@
 ---
 #title: "Ji-Woong Chung"
-image: chung.jpg
+image: chung.png
 about:
   template: solana #jolla trestles
   image-shape: round

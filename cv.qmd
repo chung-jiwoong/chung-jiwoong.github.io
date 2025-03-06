@@ -1,13 +1,15 @@
 ---
 #title: "Curriculum Vitae"
 #author: "Ji-Woong Chung"
-format: pdf
+format: 
+  html: default
+  pdf: default
 fontsize: 11pt
 geometry: margin=1in
-header-includes:
-  - \usepackage{enumitem}
-  - \usepackage{hyperref}
-  - \usepackage[T1]{fontenc}
+# header-includes:
+#   - \usepackage{enumitem}
+#   - \usepackage{hyperref}
+#   - \usepackage[T1]{fontenc}
 ---
 
 # \LARGE Ji-Woong Chung
