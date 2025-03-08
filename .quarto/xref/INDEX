@@ -9,5 +9,14 @@
   "cv.qmd": {
     "cv.html": "ee6e4c11",
     "cv.tex": "21b2b740"
+  },
+  "index.qmd": {
+    "index.html": "b4357e15"
+  },
+  "teaching.qmd": {
+    "teaching.html": "127f6afb"
+  },
+  "research.qmd": {
+    "research.html": "88a934e3"
   }
 }
