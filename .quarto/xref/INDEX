@@ -1,22 +1,13 @@
 {
-  "index.qmd": {
-    "index.html": "596d9e47"
+  "testing.qmd": {
+    "testing.html": "09806196"
   },
-  "about.qmd": {
-    "about.html": "c4752b97"
-  },
-  "teaching.qmd": {
-    "teaching.html": "4838ec17"
+  "cv_origin.qmd": {
+    "cv_origin.html": "f6335726",
+    "cv_origin.tex": "d0624dfc"
   },
   "cv.qmd": {
-    "cv.tex": "aa786c25",
-    "cv.html": "4d2d135c",
-    "cv.pdf": "1e1414a1"
-  },
-  "cv_testing.qmd": {
-    "cv_testing.tex": "e1e73d2b"
-  },
-  "research.qmd": {
-    "research.html": "61ee7f0c"
+    "cv.html": "ee6e4c11",
+    "cv.tex": "21b2b740"
   }
 }

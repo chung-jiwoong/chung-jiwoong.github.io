@@ -8,7 +8,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Vita
+      - text: CV
         href: cv.qmd
       - text: Teaching
         href: teaching.qmd

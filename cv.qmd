@@ -1,18 +1,12 @@
 ---
-#title: "Curriculum Vitae"
-#author: "Ji-Woong Chung"
 format: 
   html: 
     default: true
-    css:x` styles.css
+    css: styles.css
   pdf: default
 fontsize: 11pt
 toc: false
-# geometry: margin=1in
-# header-includes:
-#   - \usepackage{enumitem}
-#   - \usepackage{hyperref}
-#   - \usepackage[T1]{fontenc}
+# https://www.yamllint.com/
 ---
 
 # \LARGE Ji-Woong Chung
