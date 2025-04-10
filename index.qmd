@@ -9,7 +9,7 @@ about:
       text: Github
       aria-label: github
       href: https://github.com/chung-jiwoong
-    - icon: graduation-cap
+    - icon: mortarboard-fill
       text: Scholar
       aria-label: scholar
       href: https://scholar.google.com/citations?user=zqHrZZoAAAAJ&hl=en
