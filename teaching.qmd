@@ -5,6 +5,8 @@ toc: true
 
 ### Graduate
 - BUSS975: Causal Inference in Financial Research
+
+### MBA
 - FMB850: Economics of Private Equity
 - FMB819: [Data Analysis using R](https://github.com/chung-jiwoong/FMB819-Slides)
 
