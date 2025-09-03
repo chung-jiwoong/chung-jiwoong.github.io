@@ -3,13 +3,16 @@ title: "Teaching"
 toc: true
 ---
 
-### Graduate
-- BUSS975: Causal Inference in Financial Research
+
+### Undergraduate
+- BUSS254: [Investments](https://github.com/chung-jiwoong/BUSS254-Slides)
+- BUSS386: [Futures and Options](https://github.com/chung-jiwoong/BUSS386-Slides)
+
 
 ### MBA
 - FMB850: Economics of Private Equity
 - FMB819: [Data Analysis using R](https://github.com/chung-jiwoong/FMB819-Slides)
 
-### Undergraduate
-- BUSS254: [Investments](https://github.com/chung-jiwoong/BUSS254-Slides)
-- BUSS386: [Futures and Options](https://github.com/chung-jiwoong/BUSS386-Slides)
+
+### Graduate
+- BUSS975: [Causal Inference in Financial Research](https://github.com/chung-jiwoong/BUSS975-Slides)
