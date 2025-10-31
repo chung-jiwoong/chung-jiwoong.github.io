@@ -5,14 +5,14 @@ toc: true
 
 
 ### Undergraduate
-- BUSS254: [Investments](https://github.com/chung-jiwoong/BUSS254-Slides)
-- BUSS386: [Futures and Options](https://github.com/chung-jiwoong/BUSS386-Slides)
+- BUSS254: [Investments](https://chung-jiwoong.github.io//BUSS254)
+- BUSS386: [Futures and Options](https://chung-jiwoong.github.io//BUSS386)
 
 
 ### MBA
-- FMB850: Economics of Private Equity
-- FMB819: [Data Analysis using R](https://github.com/chung-jiwoong/FMB819-Slides)
+- FMB850: [Alternative Investments](https://chung-jiwoong.github.io/FMB850)
+- FMB819: [Data Analysis Using R](https://chung-jiwoong.github.io//FMB819)
 
 
 ### Graduate
-- BUSS975: [Causal Inference in Financial Research](https://github.com/chung-jiwoong/BUSS975-Slides)
+- BUSS975: [Causal Inference in Financial Research](https://chung-jiwoong.github.io/BUSS975)
