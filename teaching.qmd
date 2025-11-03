@@ -5,13 +5,13 @@ toc: true
 
 
 ### Undergraduate
-- BUSS254: [Investments](https://chung-jiwoong.github.io//BUSS254)
-- BUSS386: [Futures and Options](https://chung-jiwoong.github.io//BUSS386)
+- BUSS254: [Investments](https://chung-jiwoong.github.io/BUSS254)
+- BUSS386: [Futures and Options](https://chung-jiwoong.github.io/BUSS386)
 
 
 ### MBA
 - FMB850: [Alternative Investments](https://chung-jiwoong.github.io/FMB850)
-- FMB819: [Data Analysis Using R](https://chung-jiwoong.github.io//FMB819)
+- FMB819: [Data Analysis Using R](https://chung-jiwoong.github.io/FMB819)
 
 
 ### Graduate
