@@ -5,6 +5,8 @@ toc: true
 
 ## Research Papers
 
+- "Post-Exit Effects of Private Equity Buyouts on Firm Outcomes", with Songhee Kim and Koren Jo
+
 - "Intended Consequences of More Frequent Portfolio Disclosure" with Koren Jo, Jaeouk Kim, and Sejin Kang, 2024, Working Paper. 
  
 - "Heterogeneity and Persistence in Performance of Portfolio Managers" with Kyeongbae Kim and Jaemin Lee, 2021, Under revision.

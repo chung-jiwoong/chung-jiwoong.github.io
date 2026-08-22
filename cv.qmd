@@ -20,8 +20,8 @@ Professor of Finance, Korea University Business School
 
 ## **Employment**
 **Korea University Business School**  
-Finance Area Chair, *Sep 2023 – Present*  
 Professor, *Mar 2021 – Present*  
+Finance Area Chair, *Sep 2023 – Feb 2026*  
 Associate Professor, *Mar 2016 – Feb 2021*  
 Academic Director, Finance MBA Program, *Mar 2017 – Dec 2018*  
 Assistant Professor, *Sep 2012 – Feb 2016*  
@@ -29,6 +29,13 @@ Assistant Professor, *Sep 2012 – Feb 2016*
 **The Chinese University of Hong Kong**  
 Assistant Professor, *Aug 2010 – Aug 2012*   
 
+---
+
+## **Visiting Positions**
+
+Hong Kong Polytechnic University, *Jul 2020 - Feb 2021*
+Emory University, *Sep 2019 - Dec 2019*
+University of Sydney, *Feb 2017*
 ---
 
 ## **Education**
@@ -50,7 +57,7 @@ Assistant Professor, *Aug 2010 – Aug 2012*
 - **"Pay for Performance from Future Fund Flows: The Case of Private Equity"**, *Review of Financial Studies* with Berk Sensoy, Lea Stern, and Mike Weisbach, 2012  
 
 **Working Papers**
-
+- **"Post-Exit Effects of Private Equity Buyouts on Firm Outcomes"**, with Songhee Kim and Koren Jo
 - **"Intended Consequences of More Frequent Portfolio Disclosure of Mutual Funds?"**, with Koren Jo, Jaeouk Kim, and Sejin Kang, 2024  
 - **"Heterogeneity and Persistence in Performance of Portfolio Managers"** with Kyeongbae Kim and Jaemin Lee, 2021  
 - **"Performance Persistence in Private Equity Funds,"** 2012
@@ -87,7 +94,7 @@ Assistant Professor, *Aug 2010 – Aug 2012*
 
 **Program Committee**
 
-*The Conference on Asia-Pacific Financial Markets (2017 – 2023); Asian Finance Association, Tokyo (2018); Asian Finance Association, Seoul (2017); FMA Asia/Pacific Conference, Taipei (2017); FMA Asia Conference, Seoul (2015)*
+*The Conference on Asia-Pacific Financial Markets (2017 – Present); Asian Finance Association, Tokyo (2018); Asian Finance Association, Seoul (2017); FMA Asia/Pacific Conference, Taipei (2017); FMA Asia Conference, Seoul (2015)*
 
 **Others**
 
@@ -110,29 +117,17 @@ Executive board member of the Korea-America Finance Association, *2017 – 2020*
 국회입법조사처, April 2025; [딜사이트 M&A 포럼](https://dealsite.co.kr/articles/132256), November 2024;  Hong Kong Venture Capital and Private Equity Association (HKVCA), August 2011
 
 ## External consulting/evaluations
-국민연금, 사학연금, 산업통상부, IBK기업은행, 
+국민연금, 사학연금, 산업통상부, IBK기업은행, 산업은행, 한국산업기술보호협회, 한국에너지기술평가원, 한국에너지경제연구원
 -->
 
 ---
 
 ## **Awards & Grants**
-SK Distinguished Research Award, Korea University Business School (*2012, 2016, 2022*)   
-KU-Future Research Grant (*2016, 2017, 2019, 2020*)   
-INSUNG Research Award (*2018*)    
-LINC Plus Research Grant – *ETF Portfolio Creation* (*2017 – 2018*)   
-Financial News & KAFA Top-Journal Award (*2016*)    
-Asian Review of Financial Research Best Paper Award Runner-Up (*2017*)    
-General Research Fund, Research Grants Council of Hong Kong, (*2011/2012, 2012/2013*)   
-Korea Investment & Securities Outstanding Paper (*2011*)   
-Wharton School WRDS Award for Best Empirical Finance Paper (*2011*)   
-Best Paper Award from the Coller Institute of Private Equity** at London Business School (*2010*)
+SK Distinguished Research Award, Korea University Business School (*2012, 2016, 2022*); KU-Future Research Grant (*2016, 2017, 2019, 2020*); INSUNG Research Award (*2018*); LINC Plus Research Grant – *ETF Portfolio Creation* (*2017 – 2018*); Financial News & KAFA Top-Journal Award (*2016*); Asian Review of Financial Research Best Paper Award Runner-Up (*2017*); General Research Fund, Research Grants Council of Hong Kong, (*2011/2012, 2012/2013*); Korea Investment & Securities Outstanding Paper (*2011*); Wharton School WRDS Award for Best Empirical Finance Paper (*2011*); Best Paper Award from the Coller Institute of Private Equity** at London Business School (*2010*)
 ---
 
 ## **Expert Witnesses & Legal Opinions**
-Valuation of a call option on an exchangeable bond    
-Evaluating the impact of dividend payment error on stock price       
-Valuation of an asset management company    
-Pricing call options in a related party transaction     
+Valuation of a call option on an exchangeable bond (2024); Evaluating the impact of dividend payment error on stock price (2020); Valuation of an asset management company (2015); Pricing call options in a related party transaction (2014)     
 
 <!--
 Valuation of call option on exchangeable bonds (2024)   
@@ -145,8 +140,8 @@ Pricing call options in a related party transaction  (2014)
 
 ## **Teaching**
 **Undergraduate:** Financial Management, Corporate Finance, Investments, International Financial Management, Management of Financial Institutions, Derivatives  
-**MBA:** Financial Management, International Financial Management  
-**Ph.D.:** Asset Management, Corporate Finance Theory, Empirical Methods in Finance   
+**MBA:** Alternative Investments, Financial Management, International Financial Management  
+**Ph.D.:** Causal Inference in Financial Research, Asset Management, Corporate Finance Theory, Empirical Methods in Finance   
 
 ---
 
