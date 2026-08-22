@@ -59,6 +59,7 @@ University of Sydney, *Feb 2017*
 - **"Pay for Performance from Future Fund Flows: The Case of Private Equity"**, *Review of Financial Studies* with Berk Sensoy, Lea Stern, and Mike Weisbach, 2012  
 
 **Working Papers**
+
 - **"Post-Exit Effects of Private Equity Buyouts on Firm Outcomes"**, with Songhee Kim and Koren Jo
 - **"Intended Consequences of More Frequent Portfolio Disclosure of Mutual Funds?"**, with Koren Jo, Jaeouk Kim, and Sejin Kang, 2024  
 - **"Heterogeneity and Persistence in Performance of Portfolio Managers"** with Kyeongbae Kim and Jaemin Lee, 2021  
