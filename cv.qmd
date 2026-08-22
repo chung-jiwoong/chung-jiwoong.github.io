@@ -4,6 +4,7 @@ format:
     default: true
     css: styles.css
   typst: default
+pagetitle: "CV"
 fontsize: 11pt
 toc: false
 # https://www.yamllint.com/
@@ -11,7 +12,7 @@ toc: false
 
 # \LARGE Ji-Woong Chung
 Professor of Finance, Korea University Business School  
-[chung_jiwoong@korea.ac.kr](mailto:chung_jiwoong@korea.ac.kr) | [chung-jiwoong.github.io](chung-jiwoong.github.io)  
+[chung_jiwoong@korea.ac.kr](mailto:chung_jiwoong@korea.ac.kr) | [chung-jiwoong.github.io](https://chung-jiwoong.github.io)  
 145 Anam-ro, Seongbuk-gu, Seoul, 02841, South Korea | Office: +82-2-3290-2825  
 
 
@@ -33,9 +34,10 @@ Assistant Professor, *Aug 2010 – Aug 2012*
 
 ## **Visiting Positions**
 
-Hong Kong Polytechnic University, *Jul 2020 - Feb 2021*
-Emory University, *Sep 2019 - Dec 2019*
-University of Sydney, *Feb 2017*
+Hong Kong Polytechnic University, *Jul 2020 – Feb 2021*  
+Emory University, *Sep 2019 – Dec 2019*  
+University of Sydney, *Feb 2017*  
+
 ---
 
 ## **Education**
@@ -123,7 +125,8 @@ Executive board member of the Korea-America Finance Association, *2017 – 2020*
 ---
 
 ## **Awards & Grants**
-SK Distinguished Research Award, Korea University Business School (*2012, 2016, 2022*); KU-Future Research Grant (*2016, 2017, 2019, 2020*); INSUNG Research Award (*2018*); LINC Plus Research Grant – *ETF Portfolio Creation* (*2017 – 2018*); Financial News & KAFA Top-Journal Award (*2016*); Asian Review of Financial Research Best Paper Award Runner-Up (*2017*); General Research Fund, Research Grants Council of Hong Kong, (*2011/2012, 2012/2013*); Korea Investment & Securities Outstanding Paper (*2011*); Wharton School WRDS Award for Best Empirical Finance Paper (*2011*); Best Paper Award from the Coller Institute of Private Equity** at London Business School (*2010*)
+SK Distinguished Research Award, Korea University Business School (*2012, 2016, 2022*); KU-Future Research Grant (*2016, 2017, 2019, 2020*); INSUNG Research Award (*2018*); LINC Plus Research Grant – *ETF Portfolio Creation* (*2017 – 2018*); Financial News & KAFA Top-Journal Award (*2016*); Asian Review of Financial Research Best Paper Award Runner-Up (*2017*); General Research Fund, Research Grants Council of Hong Kong, (*2011/2012, 2012/2013*); Korea Investment & Securities Outstanding Paper (*2011*); Wharton School WRDS Award for Best Empirical Finance Paper (*2011*); Best Paper Award from the Coller Institute of Private Equity at London Business School (*2010*)
+
 ---
 
 ## **Expert Witnesses & Legal Opinions**

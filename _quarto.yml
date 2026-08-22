@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Ji-Woong Chung"
+  description: "Ji-Woong Chung is a Professor of Finance at Korea University Business School, studying the operations, governance, and regulation of financial markets."
+  site-url: https://chung-jiwoong.github.io
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - text: Home
@@ -14,11 +18,21 @@ website:
         href: teaching.qmd
       - text: Research
         href: research.qmd
+    right:
+      - icon: github
+        href: https://github.com/chung-jiwoong
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=zqHrZZoAAAAJ&hl=en"
+        aria-label: Google Scholar
+      - icon: envelope
+        href: "mailto:chung_jiwoong@korea.ac.kr"
+        aria-label: Email
 # Created this website following the instruction at https://colab.research.google.com/github/jfrench/DataWrangleViz/blob/master/github-website-creation.ipynb
 # and this as well: https://ucsb-meds.github.io/creating-quarto-websites/
 format:
   html:
-    theme: cosmos
+    theme: cosmo
     toc: true
     css:
       - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
