@@ -19,6 +19,15 @@ jobs:
         with:
           version: 1.9.29
 
+      # ubuntu-latest ships no CJK font, and Libertinus Serif (the Typst
+      # default) has no Hangul. Without this the Korean journal names in
+      # the CV render as tofu boxes in cv.pdf.
+      - name: Install Korean fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+          fc-cache -f
+
       - name: Render site
         run: quarto render
 
