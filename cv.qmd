@@ -10,7 +10,7 @@ toc: false
 # https://www.yamllint.com/
 ---
 
-# \LARGE Ji-Woong Chung
+# Ji-Woong Chung
 Professor of Finance, Korea University Business School  
 [chung_jiwoong@korea.ac.kr](mailto:chung_jiwoong@korea.ac.kr) | [chung-jiwoong.github.io](https://chung-jiwoong.github.io)  
 145 Anam-ro, Seongbuk-gu, Seoul, 02841, South Korea | Office: +82-2-3290-2825  
@@ -28,7 +28,7 @@ Academic Director, Finance MBA Program, *Mar 2017 – Dec 2018*
 Assistant Professor, *Sep 2012 – Feb 2016*  
 
 **The Chinese University of Hong Kong**  
-Assistant Professor, *Aug 2010 – Aug 2012*   
+Assistant Professor, *Aug 2010 – Aug 2012*
 
 ---
 
@@ -51,28 +51,28 @@ University of Sydney, *Feb 2017*
 
 **Published Papers**
 
-- **"The Introduction of Governance Regulation on Financial Institutions and Its Effect on Firm Value"**, *Financial Stability Studies* with Yangsoo Lee and Koren Jo, 2024  
-- **"Do Prime Brokers Matter in the Search for Informed Hedge Fund Managers?"** with George Aragon and Byoung-Uk Kang, *Management Science*, 2023  
-- **"Has the Value of Cash Increased over Time?"** with Boochun Jung and Duri Park, *Accounting and Finance*, 2020  
-- **"Capital Structure and Unemployment Risk: Evidence from Korea"** with Jaeouk Kim, *Asian Review of Financial Research*, 2017  
-- **"Prime Broker-Level Comovement in Hedge Fund Returns: Information or Contagion?"**, *Review of Financial Studies* with Byoung Uk Kang, 2016  
-- **"Pay for Performance from Future Fund Flows: The Case of Private Equity"**, *Review of Financial Studies* with Berk Sensoy, Lea Stern, and Mike Weisbach, 2012  
+- **"The Introduction of Governance Regulation on Financial Institutions and Its Effect on Firm Value"**, with Yangsoo Lee and Koren Jo, *Financial Stability Studies*, 2024
+- **"Do Prime Brokers Matter in the Search for Informed Hedge Fund Managers?"**, with George Aragon and Byoung-Uk Kang, *Management Science*, 2023
+- **"Has the Value of Cash Increased over Time?"**, with Boochun Jung and Duri Park, *Accounting and Finance*, 2020
+- **"Capital Structure and Unemployment Risk: Evidence from Korea"**, with Jaeouk Kim, *Asian Review of Financial Research*, 2017
+- **"Prime Broker-Level Comovement in Hedge Fund Returns: Information or Contagion?"**, with Byoung-Uk Kang, *Review of Financial Studies*, 2016
+- **"Pay for Performance from Future Fund Flows: The Case of Private Equity"**, with Berk Sensoy, Lea Stern, and Mike Weisbach, *Review of Financial Studies*, 2012
 
 **Working Papers**
 
-- **"Post-Exit Effects of Private Equity Buyouts on Firm Outcomes"**, with Songhee Kim and Koren Jo
-- **"Intended Consequences of More Frequent Portfolio Disclosure of Mutual Funds?"**, with Koren Jo, Jaeouk Kim, and Sejin Kang, 2024  
-- **"Heterogeneity and Persistence in Performance of Portfolio Managers"** with Kyeongbae Kim and Jaemin Lee, 2021  
-- **"Performance Persistence in Private Equity Funds,"** 2012
-- **"Leveraged Buyouts of Private Companies,"** 2011
-  
+- **"Post-Exit Effects of Private Equity Buyouts on Firm Outcomes"**, with Songhee Kim and Koren Jo, 2026
+- **"Intended Consequences of More Frequent Portfolio Disclosure of Mutual Funds?"**, with Koren Jo, Jaeouk Kim, and Sejin Kang, 2024
+- **"Heterogeneity and Persistence in Performance of Portfolio Managers"**, with Kyeongbae Kim and Jaemin Lee, 2021
+- **"Performance Persistence in Private Equity Funds"**, 2012
+- **"Leveraged Buyouts of Private Companies"**, 2011
+
 ---
 
 
 ## **Book Chapters**
 
-- **“Waterfall in Private Equity”**, in The Palgrave Encyclopedia of Private Equity, Springer (eds. Benjamin Hammer and Douglas Cumming)
-- **"Compensation Structure"**, Chapter 20 in Private Equity ‒ Opportunities and Risk, Oxford University Press (eds. Kent Baker, Halil Kiymaz, and Greg Filbeck)
+- **"Waterfall in Private Equity"**, in *The Palgrave Encyclopedia of Private Equity*, Springer (eds. Benjamin Hammer and Douglas Cumming)
+- **"Compensation Structure"**, Chapter 20 in *Private Equity: Opportunities and Risks*, Oxford University Press (eds. Kent Baker, Halil Kiymaz, and Greg Filbeck)
 
 
 ---
@@ -107,12 +107,40 @@ Executive board member of the Korea-America Finance Association, *2017 – 2020*
 ---
 
 ## **Research Presentations**
-*Conference on Asia-Pacific Financial Markets, December 2024; Financial Information Society of Korea, October 2024; Korea-Japan Finance Workshop, August 2024; Korean Academic Society of Business Administration, August 2024; Sungkyunkwan University, September 2023; Korea University, March 2023; AAA Annual Meetings, August 2021; Korean Securities Association, August 2021; Hanyang University, September 2020; Korea University, May 2020; AFA Annual Meetings, Chicago, January 2021; Fordham University, November 2019; Georgia Institute of Technology, October 2019; University of South Carolina, September 2019; FMA Annual Meetings, New Orleans, October 2019; 11th Annual Hedge Fund and Private Equity Fund Research Conference, Paris, January 2019; Yonsei University, November 2018; Seoul National University, November 2018; SKK Business School, October 2018; Hanyang University ERICA, December 2017; University of New South Wales, February 2017; University of Sydney, February 2017; Korea Institute of Finance, October 2016; SKK Business School, December 2015; Sungkyunkwan University, December 2015; Korea University, November 2015; Hanyang University, November 2015; KAIST, November 2015; Seoul National University, November 2015; Hong Kong Polytechnic University, May 2018; The Korea Money & Finance Association Meetings, May 2018; Korea University, April 2018; Chinese University of Hong Kong, April 2018; FMA – KAFA Session, Las Vegas, October 2016; The Ninth International Conference on Asia-Pacific Financial Markets, December 2014; EFA Annual Meetings, Lugano, August 2014; China International Conference in Finance, Chengdu, July 2014; Asian Finance Association Conference, Bali, June 2014; UNIST, April 2014; SKK Graduate School of Business, March 2014; Korea University, March 2014; Soongsil University, April 2013; KAIST, March 2013; Seoul National University, March 2013; AAA Annual Meetings, Washington DC, August 2012; The Sixth International Conference on Asia-Pacific Financial Markets, December 2011; Yonsei University, December 2011; Hong Kong Polytechnic University, October 2011; The Fifth Singapore International Conference on Finance, July 2011; Hong Kong Venture Capital and Private Equity Association (HKVCA), August 2011; EFA Annual Meetings, Stockholm, August 2011; EFM Symposium - Alternative Investment, York University, April 2011; University of Hong Kong, March 2011; The 3rd Shanghai Winter Finance Conference, December 2010; The Coller Institute of Private Equity at LBS, November 2010; Chulalongkorn Accounting and Finance Symposium, Bangkok, November 2010; KAIST, February 2010; University of Oxford, February 2010; ESSEC, February 2010; University of Zurich, February 2010; City University of Hong Kong, February 2010; University of Hong Kong, February 2010; Chinese University of Hong Kong, February 2010; Korea University, South Korea, February 2010; University of Georgia, January 2010; University of Exeter, January 2010; FMA Doctoral Consortium, Reno, October 2009; Ohio State University, September 2009.*  
+
+- **2024:** Conference on Asia-Pacific Financial Markets; Financial Information Society of Korea; Korea-Japan Finance Workshop; Korean Academic Society of Business Administration
+- **2023:** Sungkyunkwan University; Korea University
+- **2021:** AAA Annual Meetings; Korean Securities Association; AFA Annual Meetings, Chicago
+- **2020:** Hanyang University; Korea University
+- **2019:** Fordham University; Georgia Institute of Technology; FMA Annual Meetings, New Orleans; University of South Carolina; 11th Annual Hedge Fund and Private Equity Fund Research Conference, Paris
+- **2018:** Yonsei University; Seoul National University; SKK Business School; Hong Kong Polytechnic University; Korea Money & Finance Association Meetings; Korea University; Chinese University of Hong Kong
+- **2017:** Hanyang University ERICA; University of New South Wales; University of Sydney
+- **2016:** FMA–KAFA Session, Las Vegas; Korea Institute of Finance
+- **2015:** SKK Business School; Sungkyunkwan University; Korea University; Hanyang University; KAIST; Seoul National University
+- **2014:** Ninth International Conference on Asia-Pacific Financial Markets; EFA Annual Meetings, Lugano; China International Conference in Finance, Chengdu; Asian Finance Association Conference, Bali; UNIST; SKK Graduate School of Business; Korea University
+- **2013:** Soongsil University; KAIST; Seoul National University
+- **2012:** AAA Annual Meetings, Washington DC
+- **2011:** Sixth International Conference on Asia-Pacific Financial Markets; Yonsei University; Hong Kong Polytechnic University; Hong Kong Venture Capital and Private Equity Association (HKVCA); EFA Annual Meetings, Stockholm; Fifth Singapore International Conference on Finance; EFM Symposium – Alternative Investment, York University; University of Hong Kong
+- **2010:** 3rd Shanghai Winter Finance Conference; Coller Institute of Private Equity at LBS; Chulalongkorn Accounting and Finance Symposium, Bangkok; KAIST; University of Oxford; ESSEC; University of Zurich; City University of Hong Kong; University of Hong Kong; Chinese University of Hong Kong; Korea University; University of Georgia; University of Exeter
+- **2009:** FMA Doctoral Consortium, Reno; Ohio State University
 
 ---
 
 ## **Discussions/Session Chair**
-*Conference on Asia-Pacific Financial Markets, December 2025; Korean Academic Society of Business Administration, August 2024; Conference on Asia-Pacific Financial Markets, December 2023; China Accounting and Finance Review Annual Meeting, September 2021; Conference on Asia-Pacific Financial Markets, December 2020; Asia-Pacific Association of Derivatives, June 2020; FMA Annual Meetings, New Orleans, LA, October 2019; The Thirteenth International Conference on Asia-Pacific Financial Markets, December 2018; Korea Securities Association Seminar Series, November 2018; The Eleventh International Conference on Asia-Pacific Financial Markets, December 2016; The Joint Conference of Korean Finance Association and National Pension Research Institute, October 2015; FMA Asian Meeting, June 2015; The Ninth International Conference on Asia-Pacific Financial Markets, December 2014; Korean Finance Association Meetings, May 2014; Korean Finance Association Meetings, May 2013; International Conference on Corporate Governance, Indian School of Business, August 2013; The Eighth International Conference on Asia-Pacific Financial Markets, December 2013; The Seventh International Conference on Asia-Pacific Financial Markets, December 2012; The Sixth International Conference on Asia-Pacific Financial Markets, December 2011; EFM Symposium - Alternative Investment, York University, April 2011.*  
+
+- **2025:** Conference on Asia-Pacific Financial Markets
+- **2024:** Korean Academic Society of Business Administration
+- **2023:** Conference on Asia-Pacific Financial Markets
+- **2021:** China Accounting and Finance Review Annual Meeting
+- **2020:** Conference on Asia-Pacific Financial Markets; Asia-Pacific Association of Derivatives
+- **2019:** FMA Annual Meetings, New Orleans
+- **2018:** Thirteenth International Conference on Asia-Pacific Financial Markets; Korea Securities Association Seminar Series
+- **2016:** Eleventh International Conference on Asia-Pacific Financial Markets
+- **2015:** Joint Conference of Korean Finance Association and National Pension Research Institute; FMA Asian Meeting
+- **2014:** Ninth International Conference on Asia-Pacific Financial Markets; Korean Finance Association Meetings
+- **2013:** Eighth International Conference on Asia-Pacific Financial Markets; International Conference on Corporate Governance, Indian School of Business; Korean Finance Association Meetings
+- **2012:** Seventh International Conference on Asia-Pacific Financial Markets
+- **2011:** Sixth International Conference on Asia-Pacific Financial Markets; EFM Symposium – Alternative Investment, York University
 
 
 <!-- ## Other Presentations/Discussions 
@@ -125,12 +153,22 @@ Executive board member of the Korea-America Finance Association, *2017 – 2020*
 ---
 
 ## **Awards & Grants**
-*SK Distinguished Research Award, Korea University Business School (*2012, 2016, 2022*); KU-Future Research Grant (*2016, 2017, 2019, 2020*); INSUNG Research Award (*2018*); LINC Plus Research Grant – *ETF Portfolio Creation* (*2017 – 2018*); Financial News & KAFA Top-Journal Award (*2016*); Asian Review of Financial Research Best Paper Award Runner-Up (*2017*); General Research Fund, Research Grants Council of Hong Kong, (*2011/2012, 2012/2013*); Korea Investment & Securities Outstanding Paper (*2011*); Wharton School WRDS Award for Best Empirical Finance Paper (*2011*); Best Paper Award from the Coller Institute of Private Equity at London Business School (*2010*)*
+
+- SK Distinguished Research Award, Korea University Business School (2012, 2016, 2022)
+- KU-Future Research Grant (2016, 2017, 2019, 2020)
+- INSUNG Research Award (2018)
+- LINC Plus Research Grant – *ETF Portfolio Creation* (2017–2018)
+- Asian Review of Financial Research Best Paper Award Runner-Up (2017)
+- Financial News & KAFA Top-Journal Award (2016)
+- General Research Fund, Research Grants Council of Hong Kong (2011/2012, 2012/2013)
+- Korea Investment & Securities Outstanding Paper (2011)
+- Wharton School WRDS Award for Best Empirical Finance Paper (2011)
+- Best Paper Award, Coller Institute of Private Equity at London Business School (2010)
 
 ---
 
 ## **Expert Witnesses & Legal Opinions**
-*Valuation of a call option on an exchangeable bond (2024); Evaluating the impact of dividend payment error on stock price (2020); Valuation of an asset management company (2015); Pricing call options in a related party transaction (2014)*     
+*Valuation of a call option on an exchangeable bond (2024); Evaluating the impact of dividend payment error on stock price (2020); Valuation of an asset management company (2015); Pricing call options in a related party transaction (2014)*
 
 <!--
 Valuation of call option on exchangeable bonds (2024)   
@@ -144,17 +182,17 @@ Pricing call options in a related party transaction  (2014)
 ## **Teaching**
 **Undergraduate:** Financial Management, Corporate Finance, Investments, International Financial Management, Management of Financial Institutions, Derivatives  
 **MBA:** Alternative Investments, Financial Management, International Financial Management  
-**Ph.D.:** Causal Inference in Financial Research, Asset Management, Corporate Finance Theory, Empirical Methods in Finance   
+**Ph.D.:** Causal Inference in Financial Research, Asset Management, Corporate Finance Theory, Empirical Methods in Finance
 
 ---
 
 ## **Advisees**  
-**Guo Lin** (Assistant Professor, Southwestern University of Finance and Economics, 2018)  
-**Jaeouk Kim** (Research Fellow, National Pension Research Institute)  
+**Guo Lin** (Assistant Professor, Southwestern University of Finance and Economics)  
+**Jaeouk Kim** (Research Fellow, NH Economic Research Institute)  
 **Hyunji Lee** (Ph.D. Student, University of Wisconsin-Milwaukee)  
-**Jaemin Lee** (Ph.D. Student, Emory University)  
-**Jinyoung Kim** (Ph.D. Student, Boston College)  
-**Jaeyeon Lee** (Ph.D. Student, UC Berkeley, Real Estate/Finance)  
-**Thomas Seunghyun Lee** (Ph.D. Student, UT Austin, Finance)  
-**Sejin Kang** (Ph.D. Student, Ohio State University)  
+**Jaemin Lee** (Assistant Professor, Chinese University of Hong Kong Shenzhen)  
+**Jinyoung Kim** (Research Fellow, Korea Capital Market Institute)  
+**Jaeyeon Lee** (Research Fellow, Korea Capital Market Institute)  
+**Thomas Seunghyun Lee** (Independent Researcher, Texas Education Agency)  
+**Sejin Kang** (Assistant Professor, San Diego State University  
 
